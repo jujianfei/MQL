@@ -1,0 +1,12 @@
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.adduser.resources
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.modifyuser.resources
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.deleteuser.resources
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\琚\Desktop\MySQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.selectuser.resources
